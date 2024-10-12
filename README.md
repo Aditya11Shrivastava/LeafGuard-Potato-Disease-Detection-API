@@ -22,3 +22,7 @@ To run this project locally, follow these steps:
 1. Install dependencies: pip install -r requirements.txt                                         
 2. Run the application: uvicorn main:app --reload       
 3. Test the API using Postman or by navigating to http://localhost:8000/docs for the interactive documentation.
+
+# Dataset
+From Kaggle,
+Link: https://www.kaggle.com/datasets/sumanrathaur/potato-disease
