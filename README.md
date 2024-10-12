@@ -1,0 +1,1 @@
+# CropCare-Disease-Detection-for-Potato-Leaves
